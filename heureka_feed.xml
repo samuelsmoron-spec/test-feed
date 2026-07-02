@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+<SHOPITEM>
+	<ITEM_ID>1001</ITEM_ID>
+	<PRODUCTNO>SKU-1001</PRODUCTNO>
+	<PRODUCTNAME>Pánske tričko Basic modré</PRODUCTNAME>
+	<DESCRIPTION>Klasické bavlnené pánske tričko s krátkym rukávom, modrá farba. Materiál 100% bavlna, strih regular fit.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/panske-tricko-basic-modre</URL>
+	<IMGURL>https://www.mojeshop.sk/img/panske-tricko-basic-modre.jpg</IMGURL>
+	<PRICE_VAT>14.90</PRICE_VAT>
+	<VAT>20</VAT>
+	<MANUFACTURER>BasicWear</MANUFACTURER>
+	<CATEGORYTEXT>Oblečenie | Pánske | Tričká</CATEGORYTEXT>
+	<EAN>8590001000011</EAN>
+	<ITEMGROUP_ID>1001-G</ITEMGROUP_ID>
+	<DELIVERY_DATE>1</DELIVERY_DATE>
+	<DELIVERY>
+		<DELIVERY_ID>CP</DELIVERY_ID>
+		<DELIVERY_PRICE>3.90</DELIVERY_PRICE>
+		<DELIVERY_PRICE_COD>4.90</DELIVERY_PRICE_COD>
+	</DELIVERY>
+	<PARAM>
+		<PARAM_NAME>Veľkosť</PARAM_NAME>
+		<VAL>M</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Farba</PARAM_NAME>
+		<VAL>Modrá</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Materiál</PARAM_NAME>
+		<VAL>100% bavlna</VAL>
+	</PARAM>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1002</ITEM_ID>
+	<PRODUCTNO>SKU-1002</PRODUCTNO>
+	<PRODUCTNAME>Dámske šaty letné kvetované</PRODUCTNAME>
+	<DESCRIPTION>Ľahké letné šaty s kvetovaným vzorom, ideálne na horúce dni. Voľný strih, viskózový materiál.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/damske-saty-letne-kvetovane</URL>
+	<IMGURL>https://www.mojeshop.sk/img/damske-saty-letne-kvetovane.jpg</IMGURL>
+	<PRICE_VAT>29.90</PRICE_VAT>
+	<VAT>20</VAT>
+	<MANUFACTURER>SummerStyle</MANUFACTURER>
+	<CATEGORYTEXT>Oblečenie | Dámske | Šaty</CATEGORYTEXT>
+	<EAN>8590001000028</EAN>
+	<ITEMGROUP_ID>1002-G</ITEMGROUP_ID>
+	<DELIVERY_DATE>1</DELIVERY_DATE>
+	<DELIVERY>
+		<DELIVERY_ID>CP</DELIVERY_ID>
+		<DELIVERY_PRICE>3.90</DELIVERY_PRICE>
+		<DELIVERY_PRICE_COD>4.90</DELIVERY_PRICE_COD>
+	</DELIVERY>
+	<PARAM>
+		<PARAM_NAME>Veľkosť</PARAM_NAME>
+		<VAL>S</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Farba</PARAM_NAME>
+		<VAL>Kvetovaná</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Materiál</PARAM_NAME>
+		<VAL>Viskóza</VAL>
+	</PARAM>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1003</ITEM_ID>
+	<PRODUCTNO>SKU-1003</PRODUCTNO>
+	<PRODUCTNAME>Bezdrôtové slúchadlá SoundMax X1</PRODUCTNAME>
+	<DESCRIPTION>Bluetooth slúchadlá s výdržou batérie až 20 hodín a aktívnym potlačením hluku (ANC).</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/sluchadla-soundmax-x1</URL>
+	<IMGURL>https://www.mojeshop.sk/img/sluchadla-soundmax-x1.jpg</IMGURL>
+	<PRICE_VAT>59.99</PRICE_VAT>
+	<VAT>20</VAT>
+	<MANUFACTURER>SoundMax</MANUFACTURER>
+	<CATEGORYTEXT>Elektronika | Audio | Slúchadlá</CATEGORYTEXT>
+	<EAN>8590001000035</EAN>
+	<ITEMGROUP_ID>1003-G</ITEMGROUP_ID>
+	<DELIVERY_DATE>2</DELIVERY_DATE>
+	<DELIVERY>
+		<DELIVERY_ID>CP</DELIVERY_ID>
+		<DELIVERY_PRICE>3.90</DELIVERY_PRICE>
+		<DELIVERY_PRICE_COD>4.90</DELIVERY_PRICE_COD>
+	</DELIVERY>
+	<PARAM>
+		<PARAM_NAME>Farba</PARAM_NAME>
+		<VAL>Čierna</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Typ pripojenia</PARAM_NAME>
+		<VAL>Bluetooth 5.2</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Výdrž batérie</PARAM_NAME>
+		<VAL>20 hodín</VAL>
+	</PARAM>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1004</ITEM_ID>
+	<PRODUCTNO>SKU-1004</PRODUCTNO>
+	<PRODUCTNAME>Smartwatch FitPulse 5</PRODUCTNAME>
+	<DESCRIPTION>Inteligentné hodinky s meraním tepu, GPS a odolnosťou voči vode (5ATM).</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/smartwatch-fitpulse-5</URL>
+	<IMGURL>https://www.mojeshop.sk/img/smartwatch-fitpulse-5.jpg</IMGURL>
+	<PRICE_VAT>89.90</PRICE_VAT>
+	<VAT>20</VAT>
+	<MANUFACTURER>FitPulse</MANUFACTURER>
+	<CATEGORYTEXT>Elektronika | Nositeľná elektronika</CATEGORYTEXT>
+	<EAN>8590001000042</EAN>
+	<ITEMGROUP_ID>1004-G</ITEMGROUP_ID>
+	<DELIVERY_DATE>1</DELIVERY_DATE>
+	<DELIVERY>
+		<DELIVERY_ID>CP</DELIVERY_ID>
+		<DELIVERY_PRICE>3.90</DELIVERY_PRICE>
+		<DELIVERY_PRICE_COD>4.90</DELIVERY_PRICE_COD>
+	</DELIVERY>
+	<PARAM>
+		<PARAM_NAME>Farba remienka</PARAM_NAME>
+		<VAL>Sivá</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Vodotesnosť</PARAM_NAME>
+		<VAL>5ATM</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>GPS</PARAM_NAME>
+		<VAL>Áno</VAL>
+	</PARAM>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1005</ITEM_ID>
+	<PRODUCTNO>SKU-1005</PRODUCTNO>
+	<PRODUCTNAME>Kuchynský robot MixPro 800</PRODUCTNAME>
+	<DESCRIPTION>Výkonný kuchynský robot s viacerými nadstavcami na miešanie, šľahanie a hnetenie, výkon 800W.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/kuchynsky-robot-mixpro-800</URL>
+	<IMGURL>https://www.mojeshop.sk/img/kuchynsky-robot-mixpro-800.jpg</IMGURL>
+	<PRICE_VAT>119.00</PRICE_VAT>
+	<VAT>20</VAT>
+	<MANUFACTURER>MixPro</MANUFACTURER>
+	<CATEGORYTEXT>Domácnosť | Kuchynské spotrebiče</CATEGORYTEXT>
+	<EAN>8590001000059</EAN>
+	<ITEMGROUP_ID>1005-G</ITEMGROUP_ID>
+	<DELIVERY_DATE>3</DELIVERY_DATE>
+	<DELIVERY>
+		<DELIVERY_ID>CP</DELIVERY_ID>
+		<DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+		<DELIVERY_PRICE_COD>5.90</DELIVERY_PRICE_COD>
+	</DELIVERY>
+	<PARAM>
+		<PARAM_NAME>Výkon</PARAM_NAME>
+		<VAL>800 W</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Objem misy</PARAM_NAME>
+		<VAL>4,5 l</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Farba</PARAM_NAME>
+		<VAL>Biela</VAL>
+	</PARAM>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1006</ITEM_ID>
+	<PRODUCTNO>SKU-1006</PRODUCTNO>
+	<PRODUCTNAME>Bežecké tenisky RunFast Air</PRODUCTNAME>
+	<DESCRIPTION>Ľahké bežecké tenisky s tlmiacou podrážkou pre maximálny komfort pri behu.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/tenisky-runfast-air</URL>
+	<IMGURL>https://www.mojeshop.sk/img/tenisky-runfast-air.jpg</IMGURL>
+	<PRICE_VAT>64.90</PRICE_VAT>
+	<VAT>20</VAT>
+	<MANUFACTURER>RunFast</MANUFACTURER>
+	<CATEGORYTEXT>Šport | Obuv | Bežecká obuv</CATEGORYTEXT>
+	<EAN>8590001000066</EAN>
+	<ITEMGROUP_ID>1006-G</ITEMGROUP_ID>
+	<DELIVERY_DATE>1</DELIVERY_DATE>
+	<DELIVERY>
+		<DELIVERY_ID>CP</DELIVERY_ID>
+		<DELIVERY_PRICE>3.90</DELIVERY_PRICE>
+		<DELIVERY_PRICE_COD>4.90</DELIVERY_PRICE_COD>
+	</DELIVERY>
+	<PARAM>
+		<PARAM_NAME>Veľkosť</PARAM_NAME>
+		<VAL>42</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Farba</PARAM_NAME>
+		<VAL>Čierno-biela</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Určenie</PARAM_NAME>
+		<VAL>Beh</VAL>
+	</PARAM>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1007</ITEM_ID>
+	<PRODUCTNO>SKU-1007</PRODUCTNO>
+	<PRODUCTNAME>Záhradný gril BBQ Master 3000</PRODUCTNAME>
+	<DESCRIPTION>Plynový záhradný gril s troma horákmi a nerezovým povrchom, vhodný na terasu aj záhradu.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/zahradny-gril-bbq-master-3000</URL>
+	<IMGURL>https://www.mojeshop.sk/img/zahradny-gril-bbq-master-3000.jpg</IMGURL>
+	<PRICE_VAT>249.00</PRICE_VAT>
+	<VAT>20</VAT>
+	<MANUFACTURER>BBQ Master</MANUFACTURER>
+	<CATEGORYTEXT>Záhrada | Grilovanie</CATEGORYTEXT>
+	<EAN>8590001000073</EAN>
+	<ITEMGROUP_ID>1007-G</ITEMGROUP_ID>
+	<DELIVERY_DATE>5</DELIVERY_DATE>
+	<DELIVERY>
+		<DELIVERY_ID>CP</DELIVERY_ID>
+		<DELIVERY_PRICE>9.90</DELIVERY_PRICE>
+		<DELIVERY_PRICE_COD>10.90</DELIVERY_PRICE_COD>
+	</DELIVERY>
+	<PARAM>
+		<PARAM_NAME>Typ</PARAM_NAME>
+		<VAL>Plynový</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Počet horákov</PARAM_NAME>
+		<VAL>3</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Materiál povrchu</PARAM_NAME>
+		<VAL>Nerezová oceľ</VAL>
+	</PARAM>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1008</ITEM_ID>
+	<PRODUCTNO>SKU-1008</PRODUCTNO>
+	<PRODUCTNAME>Detská hračka Drevené kocky</PRODUCTNAME>
+	<DESCRIPTION>Sada 30 farebných drevených kociek pre rozvoj motoriky a kreativity detí od 2 rokov.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/drevene-kocky-30ks</URL>
+	<IMGURL>https://www.mojeshop.sk/img/drevene-kocky-30ks.jpg</IMGURL>
+	<PRICE_VAT>19.90</PRICE_VAT>
+	<VAT>20</VAT>
+	<MANUFACTURER>KidsPlay</MANUFACTURER>
+	<CATEGORYTEXT>Deti a hračky | Vzdelávacie hračky</CATEGORYTEXT>
+	<EAN>8590001000080</EAN>
+	<ITEMGROUP_ID>1008-G</ITEMGROUP_ID>
+	<DELIVERY_DATE>1</DELIVERY_DATE>
+	<DELIVERY>
+		<DELIVERY_ID>CP</DELIVERY_ID>
+		<DELIVERY_PRICE>2.90</DELIVERY_PRICE>
+		<DELIVERY_PRICE_COD>3.90</DELIVERY_PRICE_COD>
+	</DELIVERY>
+	<PARAM>
+		<PARAM_NAME>Počet kusov</PARAM_NAME>
+		<VAL>30</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Materiál</PARAM_NAME>
+		<VAL>Drevo</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Odporúčaný vek</PARAM_NAME>
+		<VAL>2+</VAL>
+	</PARAM>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1009</ITEM_ID>
+	<PRODUCTNO>SKU-1009</PRODUCTNO>
+	<PRODUCTNAME>Notebook UltraBook 14 i5</PRODUCTNAME>
+	<DESCRIPTION>Výkonný a ľahký notebook s procesorom Intel i5, 8GB RAM a SSD diskom 512GB, uhlopriečka 14 palcov.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/notebook-ultrabook-14-i5</URL>
+	<IMGURL>https://www.mojeshop.sk/img/notebook-ultrabook-14-i5.jpg</IMGURL>
+	<PRICE_VAT>699.00</PRICE_VAT>
+	<VAT>20</VAT>
+	<MANUFACTURER>UltraBook</MANUFACTURER>
+	<CATEGORYTEXT>Elektronika | Počítače | Notebooky</CATEGORYTEXT>
+	<EAN>8590001000097</EAN>
+	<ITEMGROUP_ID>1009-G</ITEMGROUP_ID>
+	<DELIVERY_DATE>2</DELIVERY_DATE>
+	<DELIVERY>
+		<DELIVERY_ID>CP</DELIVERY_ID>
+		<DELIVERY_PRICE>3.90</DELIVERY_PRICE>
+		<DELIVERY_PRICE_COD>4.90</DELIVERY_PRICE_COD>
+	</DELIVERY>
+	<PARAM>
+		<PARAM_NAME>Procesor</PARAM_NAME>
+		<VAL>Intel Core i5</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>RAM</PARAM_NAME>
+		<VAL>8 GB</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Úložisko</PARAM_NAME>
+		<VAL>512 GB SSD</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Uhlopriečka</PARAM_NAME>
+		<VAL>14"</VAL>
+	</PARAM>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1010</ITEM_ID>
+	<PRODUCTNO>SKU-1010</PRODUCTNO>
+	<PRODUCTNAME>Sada hrncov CookPro 5 dielna</PRODUCTNAME>
+	<DESCRIPTION>Kvalitná 5-dielna sada nerezových hrncov vhodná na všetky typy sporákov vrátane indukcie.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/sada-hrncov-cookpro-5-dielna</URL>
+	<IMGURL>https://www.mojeshop.sk/img/sada-hrncov-cookpro-5-dielna.jpg</IMGURL>
+	<PRICE_VAT>79.90</PRICE_VAT>
+	<VAT>20</VAT>
+	<MANUFACTURER>CookPro</MANUFACTURER>
+	<CATEGORYTEXT>Domácnosť | Kuchynské potreby</CATEGORYTEXT>
+	<EAN>8590001000103</EAN>
+	<ITEMGROUP_ID>1010-G</ITEMGROUP_ID>
+	<DELIVERY_DATE>2</DELIVERY_DATE>
+	<DELIVERY>
+		<DELIVERY_ID>CP</DELIVERY_ID>
+		<DELIVERY_PRICE>3.90</DELIVERY_PRICE>
+		<DELIVERY_PRICE_COD>4.90</DELIVERY_PRICE_COD>
+	</DELIVERY>
+	<PARAM>
+		<PARAM_NAME>Počet dielov</PARAM_NAME>
+		<VAL>5</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Materiál</PARAM_NAME>
+		<VAL>Nerezová oceľ</VAL>
+	</PARAM>
+	<PARAM>
+		<PARAM_NAME>Vhodné pre indukciu</PARAM_NAME>
+		<VAL>Áno</VAL>
+	</PARAM>
+</SHOPITEM>
+</SHOP>
