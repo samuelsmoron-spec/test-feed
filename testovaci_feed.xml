@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+<SHOPITEM>
+	<ITEM_ID>1001</ITEM_ID>
+	<PRODUCTNAME>Pánske tričko Basic modré</PRODUCTNAME>
+	<PRODUCT>Pánske tričko Basic modré, veľkosť M</PRODUCT>
+	<DESCRIPTION>Klasické bavlnené pánske tričko s krátkym rukávom, modrá farba.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/panske-tricko-basic-modre</URL>
+	<IMGURL>https://www.mojeshop.sk/img/panske-tricko-basic-modre.jpg</IMGURL>
+	<PRICE_VAT>14.90</PRICE_VAT>
+	<PRICE>12.42</PRICE>
+	<VAT>20</VAT>
+	<CATEGORYTEXT>Oblečenie | Pánske | Tričká</CATEGORYTEXT>
+	<MANUFACTURER>BasicWear</MANUFACTURER>
+	<EAN>8590001000011</EAN>
+	<DELIVERY_DATE>1</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1002</ITEM_ID>
+	<PRODUCTNAME>Dámske šaty letné kvetované</PRODUCTNAME>
+	<PRODUCT>Dámske šaty letné kvetované, veľkosť S</PRODUCT>
+	<DESCRIPTION>Ľahké letné šaty s kvetovaným vzorom, ideálne na horúce dni.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/damske-saty-letne-kvetovane</URL>
+	<IMGURL>https://www.mojeshop.sk/img/damske-saty-letne-kvetovane.jpg</IMGURL>
+	<PRICE_VAT>29.90</PRICE_VAT>
+	<PRICE>24.92</PRICE>
+	<VAT>20</VAT>
+	<CATEGORYTEXT>Oblečenie | Dámske | Šaty</CATEGORYTEXT>
+	<MANUFACTURER>SummerStyle</MANUFACTURER>
+	<EAN>8590001000028</EAN>
+	<DELIVERY_DATE>1</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1003</ITEM_ID>
+	<PRODUCTNAME>Bezdrôtové slúchadlá SoundMax X1</PRODUCTNAME>
+	<PRODUCT>Bezdrôtové slúchadlá SoundMax X1, čierne</PRODUCT>
+	<DESCRIPTION>Bluetooth slúchadlá s výdržou batérie až 20 hodín a potlačením hluku.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/sluchadla-soundmax-x1</URL>
+	<IMGURL>https://www.mojeshop.sk/img/sluchadla-soundmax-x1.jpg</IMGURL>
+	<PRICE_VAT>59.99</PRICE_VAT>
+	<PRICE>49.99</PRICE>
+	<VAT>20</VAT>
+	<CATEGORYTEXT>Elektronika | Audio | Slúchadlá</CATEGORYTEXT>
+	<MANUFACTURER>SoundMax</MANUFACTURER>
+	<EAN>8590001000035</EAN>
+	<DELIVERY_DATE>2</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1004</ITEM_ID>
+	<PRODUCTNAME>Smartwatch FitPulse 5</PRODUCTNAME>
+	<PRODUCT>Smartwatch FitPulse 5, sivý remienok</PRODUCT>
+	<DESCRIPTION>Inteligentné hodinky s meraním tepu, GPS a odolnosťou voči vode.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/smartwatch-fitpulse-5</URL>
+	<IMGURL>https://www.mojeshop.sk/img/smartwatch-fitpulse-5.jpg</IMGURL>
+	<PRICE_VAT>89.90</PRICE_VAT>
+	<PRICE>74.92</PRICE>
+	<VAT>20</VAT>
+	<CATEGORYTEXT>Elektronika | Nositeľná elektronika</CATEGORYTEXT>
+	<MANUFACTURER>FitPulse</MANUFACTURER>
+	<EAN>8590001000042</EAN>
+	<DELIVERY_DATE>1</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1005</ITEM_ID>
+	<PRODUCTNAME>Kuchynský robot MixPro 800</PRODUCTNAME>
+	<PRODUCT>Kuchynský robot MixPro 800, 800W</PRODUCT>
+	<DESCRIPTION>Výkonný kuchynský robot s viacerými nadstavcami na miešanie, šľahanie a hnetenie.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/kuchynsky-robot-mixpro-800</URL>
+	<IMGURL>https://www.mojeshop.sk/img/kuchynsky-robot-mixpro-800.jpg</IMGURL>
+	<PRICE_VAT>119.00</PRICE_VAT>
+	<PRICE>99.17</PRICE>
+	<VAT>20</VAT>
+	<CATEGORYTEXT>Domácnosť | Kuchynské spotrebiče</CATEGORYTEXT>
+	<MANUFACTURER>MixPro</MANUFACTURER>
+	<EAN>8590001000059</EAN>
+	<DELIVERY_DATE>3</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1006</ITEM_ID>
+	<PRODUCTNAME>Bežecké tenisky RunFast Air</PRODUCTNAME>
+	<PRODUCT>Bežecké tenisky RunFast Air, veľkosť 42</PRODUCT>
+	<DESCRIPTION>Ľahké bežecké tenisky s tlmiacou podrážkou pre maximálny komfort.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/tenisky-runfast-air</URL>
+	<IMGURL>https://www.mojeshop.sk/img/tenisky-runfast-air.jpg</IMGURL>
+	<PRICE_VAT>64.90</PRICE_VAT>
+	<PRICE>54.08</PRICE>
+	<VAT>20</VAT>
+	<CATEGORYTEXT>Šport | Obuv | Bežecká obuv</CATEGORYTEXT>
+	<MANUFACTURER>RunFast</MANUFACTURER>
+	<EAN>8590001000066</EAN>
+	<DELIVERY_DATE>1</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1007</ITEM_ID>
+	<PRODUCTNAME>Záhradný gril BBQ Master 3000</PRODUCTNAME>
+	<PRODUCT>Záhradný gril BBQ Master 3000, nerezový</PRODUCT>
+	<DESCRIPTION>Plynový záhradný gril s troma horákmi a nerezovým povrchom.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/zahradny-gril-bbq-master-3000</URL>
+	<IMGURL>https://www.mojeshop.sk/img/zahradny-gril-bbq-master-3000.jpg</IMGURL>
+	<PRICE_VAT>249.00</PRICE_VAT>
+	<PRICE>207.50</PRICE>
+	<VAT>20</VAT>
+	<CATEGORYTEXT>Záhrada | Grilovanie</CATEGORYTEXT>
+	<MANUFACTURER>BBQ Master</MANUFACTURER>
+	<EAN>8590001000073</EAN>
+	<DELIVERY_DATE>5</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1008</ITEM_ID>
+	<PRODUCTNAME>Detská hračka Drevené kocky</PRODUCTNAME>
+	<PRODUCT>Detská hračka Drevené kocky, 30 ks</PRODUCT>
+	<DESCRIPTION>Sada 30 farebných drevených kociek pre rozvoj motoriky detí.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/drevene-kocky-30ks</URL>
+	<IMGURL>https://www.mojeshop.sk/img/drevene-kocky-30ks.jpg</IMGURL>
+	<PRICE_VAT>19.90</PRICE_VAT>
+	<PRICE>16.58</PRICE>
+	<VAT>20</VAT>
+	<CATEGORYTEXT>Deti a hračky | Vzdelávacie hračky</CATEGORYTEXT>
+	<MANUFACTURER>KidsPlay</MANUFACTURER>
+	<EAN>8590001000080</EAN>
+	<DELIVERY_DATE>1</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1009</ITEM_ID>
+	<PRODUCTNAME>Notebook UltraBook 14 i5</PRODUCTNAME>
+	<PRODUCT>Notebook UltraBook 14 i5, 8GB RAM, 512GB SSD</PRODUCT>
+	<DESCRIPTION>Výkonný a ľahký notebook s procesorom Intel i5, 8GB RAM a SSD diskom 512GB.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/notebook-ultrabook-14-i5</URL>
+	<IMGURL>https://www.mojeshop.sk/img/notebook-ultrabook-14-i5.jpg</IMGURL>
+	<PRICE_VAT>699.00</PRICE_VAT>
+	<PRICE>582.50</PRICE>
+	<VAT>20</VAT>
+	<CATEGORYTEXT>Elektronika | Počítače | Notebooky</CATEGORYTEXT>
+	<MANUFACTURER>UltraBook</MANUFACTURER>
+	<EAN>8590001000097</EAN>
+	<DELIVERY_DATE>2</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+	<ITEM_ID>1010</ITEM_ID>
+	<PRODUCTNAME>Sada hrncov CookPro 5 dielna</PRODUCTNAME>
+	<PRODUCT>Sada hrncov CookPro 5 dielna, nerezová</PRODUCT>
+	<DESCRIPTION>Kvalitná 5-dielna sada nerezových hrncov vhodná na všetky typy sporákov.</DESCRIPTION>
+	<URL>https://www.mojeshop.sk/produkt/sada-hrncov-cookpro-5-dielna</URL>
+	<IMGURL>https://www.mojeshop.sk/img/sada-hrncov-cookpro-5-dielna.jpg</IMGURL>
+	<PRICE_VAT>79.90</PRICE_VAT>
+	<PRICE>66.58</PRICE>
+	<VAT>20</VAT>
+	<CATEGORYTEXT>Domácnosť | Kuchynské potreby</CATEGORYTEXT>
+	<MANUFACTURER>CookPro</MANUFACTURER>
+	<EAN>8590001000103</EAN>
+	<DELIVERY_DATE>2</DELIVERY_DATE>
+</SHOPITEM>
+</SHOP>
